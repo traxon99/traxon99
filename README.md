@@ -1,4 +1,10 @@
-### Hi there 👋
+# Jackson Yanek
+CS @ KU
+
+### Welcome to my GitHub! 👋
+- I am currently working on learning Rust and contributing to projects!
+
+
 
 <!--
 **traxon99/traxon99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
